@@ -2,9 +2,9 @@
 
 Welcome to the DEMUCS-for-Speech-Enhancement repository.
 
-DEMUCS is a source separation model proposed by Facebook (now META), which received great attention for its fast processing speed and excellent performance. It was later applied to the field of voice enhancement and showed excellent performance [1]. This repository provides the following research content:
+DEMUCS is a source separation model proposed by Facebook (now META), which received great attention for its fast processing speed and excellent performance. It was later applied to the field of speech enhancement and showed excellent performance [1]. This repository provides the following research content:
 
-1. Implementation of HD-DEMUCS[2] (successor of DEMUCS model)
+1. Implementation of HD-DEMUCS[2]
 2. DEMUCS in the time-frequency domain
 3. HD-DEMUCS in time-frequency domain
 
