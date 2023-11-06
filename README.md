@@ -29,13 +29,13 @@ Download: https://datashare.ed.ac.uk/handle/10283/1942
 
 ## Getting Started
 1. Install the necessary libraries.   
-2. Set directory paths for your dataset. ([options.py](https://github.com/seorim0/CNUNet-MD/blob/main/options.py)) 
+2. Set directory paths for your dataset. ([options.py](https://github.com/JaeBinCHA7/DEMUCS-for-Speech-Enhancement/blob/main/options.py)) 
 ```   
 # dataset path
 noisy_dirs_for_train = '../Dataset/train/noisy/'   
 noisy_dirs_for_valid = '../Dataset/valid/noisy/'   
 ```   
-3. Run [train_interface.py](https://github.com/seorim0/CNUNet-MD/blob/main/train_interface.py)
+3. Run [train_interface.py](https://github.com/JaeBinCHA7/DEMUCS-for-Speech-Enhancement/blob/main/train_interface.py)
 
 ## Architecture
 <center><img src = "https://github.com/JaeBinCHA7/DEMUCS-for-Speech-Enhancement/assets/87358781/6a427f68-4fe8-495f-995d-977388a4a1a5" width="100%" height="100%"></center>
