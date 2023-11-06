@@ -42,3 +42,11 @@ noisy_dirs_for_valid = '../Dataset/valid/noisy/'
 
 ## Results 
 <center><img src = "https://github.com/JaeBinCHA7/DEMUCS-for-Speech-Enhancement/assets/87358781/6984f1c5-2e10-4254-8dc6-c4c4725eb902" width="100%" height="100%"></center>
+
+## References   
+**[1] Defossez, Alexandre, Gabriel Synnaeve, and Yossi Adi. "Real time speech enhancement in the waveform domain." arXiv preprint arXiv:2006.12847 (2020).** [[paper]](https://doi.org/10.48550/arXiv.2006.12847)  [[code]](https://github.com/facebookresearch/denoiser)   
+**[2] Kim, Doyeon, et al. "HD-DEMUCS: General Speech Restoration with Heterogeneous Decoders." arXiv preprint arXiv:2306.01411 (2023).** [[paper]](https://doi.org/10.48550/arXiv.2306.01411)
+
+## Contact  
+E-mail: jbcha7@yonsei.ac.kr
+
