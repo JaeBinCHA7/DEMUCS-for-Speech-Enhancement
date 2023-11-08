@@ -233,7 +233,7 @@ class HDDEMUCS_TF(nn.Module):
                 nn.Conv2d(hidden, ch_scale * hidden, 1), activation,
                 nn.ConvTranspose2d(hidden, chout, kernel_size, stride, pad),  # Original DEMUCS
                 # nn.ConvTranspose2d(hidden, chout, kernel_size, stride, padding=((3 + index * 7), 0),
-                #                    dilation=dilation_factor[index]),  # HD-DEMUCS
+                #                    dilation=(dilation_factor[index], 1)),  # HD-DEMUCS
             ]
 
             if index > 0:
